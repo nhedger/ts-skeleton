@@ -12,6 +12,8 @@
         "resolveJsonModule": true,
         "skipLibCheck": true,
         "skipDefaultLibCheck": true,
+        "verbatimModuleSyntax": true,
+        "isolatedModules": true,
         "paths": {
             "@/*": [
                 "./src/*"
